@@ -2,7 +2,7 @@
 
 ## Compile and run
 
-Compiling requires gcc in a recent version.
+Compiling requires a recent version of gcc.
 
 ```
 git clone https://github.com/BentHaase/cornways-game_of_life.git
