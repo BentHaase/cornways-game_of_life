@@ -1,1 +1,0 @@
-./Debug/printArray.o ./Debug/main.o ./Debug/getWindowSize.o ./Debug/printHeader.o ./Debug/fillArray.o ./Debug/processUserSelection.o ./Debug/computeNextGeneration.o ./Debug/gameMenu.o ./Debug/figureStorage.o ./Debug/copyToBuffer.o ./Debug/clearArray.o ./Debug/getUserSelection.o ./Debug/nanosleep_ns.o
