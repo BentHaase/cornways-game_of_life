@@ -7,9 +7,9 @@ Compiling requires a recent version of gcc.
 ```
 git clone https://github.com/BentHaase/cornways-game_of_life.git
 
-gcc *.c -o gol
+gcc *.c -o gol.x86_64
 
-./gol
+./gol.x86_64
 ```
 
 ## Example
