@@ -4,7 +4,7 @@
 
 Compiling requires a recent version of gcc.
 
-```
+```bash
 git clone https://github.com/BentHaase/cornways-game_of_life.git
 
 gcc *.c -o gol.x86_64
